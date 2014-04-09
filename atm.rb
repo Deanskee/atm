@@ -39,7 +39,7 @@ if pin_number == 1234
 			balance = deposit_amount.to_i + balance
 			puts "you deposited #{deposit_amount} your balance #{balance}"
 		when "q"
-				puts "goodbye"
+				puts "goodbye sir"
 		else
 
 			puts "Wrong input! Welcome to the ATM! How may I service you today?"
